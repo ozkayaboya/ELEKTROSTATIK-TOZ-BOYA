@@ -1,0 +1,2 @@
+# ELEKTROSTATIK-TOZ-BOYA
+Elektrostatik toz boya , boyama solvent içermeyen bir metal yüzey kaplama metodudur. Kaplayıcı malzeme, son kat boya tabakasını oluşturan çok ince toz boya partikülleridir. Toz boya, boya kabininde özel boya tabancaları vasıtasıyla atılır. Tabancadan geçerken elektrostatik yüklenen toz boya partikülleri kabin içinde boyanacak malzemeye yapışır ve kaplama işlemi gerçekleşmiş olur. 
